@@ -1,0 +1,13 @@
+body{
+background-color: rgb(40, 127, 240);
+}
+
+nav{
+    background-color: rgb(13, 66, 240);
+}
+
+.bayang{
+    background-color: rgb(0, 0, 0, 0.6);
+    padding: 15px;
+    border-radius: 8px;
+}
